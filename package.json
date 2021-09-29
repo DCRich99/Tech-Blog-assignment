@@ -1,7 +1,7 @@
 {
-  "name": "just-tech-news",
+  "name": "the tech blog",
   "version": "1.0.0",
-  "description": "13. Object-Relational Mapping (ORM)",
+  "description": "(ORM)",
   "main": "server.js",
   "scripts": {
     "test": "jest",
