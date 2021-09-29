@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ortizjavier10/just-tech-news.git"
+    "url": "git-https://github.com/DCRich99/Tech-Blog-assignment.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ortizjavier10/just-tech-news/issues"
+    "url": "https://github.com/DCRich99/Tech-Blog-assignment.git"
   },
-  "homepage": "https://github.com/ortizjavier10/just-tech-news#readme",
+  "homepage": "https://github.com/DCRich99/Tech-Blog-assignment.git",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "connect-session-sequelize": "^7.0.1",
